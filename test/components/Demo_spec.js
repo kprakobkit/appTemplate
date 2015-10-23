@@ -1,8 +1,8 @@
 import { expect } from 'chai';
-import React from 'react';
-import ReactDOM from 'react-dom';
-import TestUtils from 'react-addons-test-utils';
-import Demo from '../../app/components/Demo';
+import React      from 'react';
+import ReactDOM   from 'react-dom';
+import TestUtils  from 'react-addons-test-utils';
+import Demo       from '../../app/components/Demo';
 
 const { renderIntoDocument } = TestUtils;
 const demo = React.createFactory(Demo);
