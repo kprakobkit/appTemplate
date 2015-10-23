@@ -50,6 +50,8 @@
     "gulp-util": "^3.0.6",
     "jsdom": "^7.0.2",
     "mocha": "^2.3.3",
+    "react": "^0.14.0",
+    "react-addons-test-utils": "^0.14.0",
     "vinyl-source-stream": "^1.1.0",
     "watchify": "^3.4.0"
   },
